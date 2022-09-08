@@ -1,0 +1,13 @@
+.meeting,
+    .info,
+    .devices {
+        height: 100vh;
+    }
+
+    .download {
+        height: 75vh;
+    }
+
+    .footer {
+        height: 25vh;
+    }

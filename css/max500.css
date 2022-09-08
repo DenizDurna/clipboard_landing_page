@@ -1,0 +1,75 @@
+
+    html,body{
+        font-size: 10px !important;
+    }
+
+
+    button {
+        display: block;
+        margin: 2rem auto;
+        width: 80%;
+    }
+
+    .meeting {
+        height: 100vh;
+        background-image: url(/images/bg-header-mobile.png);
+    }
+
+    .info {
+        flex-direction: column;
+        margin-top: 5rem
+    }
+
+    .info .pc img {
+        width: 70%;
+    }
+
+    .infocomponents {
+        padding: 4rem 2rem;
+    }
+
+    .access,
+    .devices {
+        margin-bottom: 5rem;
+    }
+
+    .devices img {
+        width: 95%;
+    }
+
+    .features .center {
+        flex-direction: column;
+        margin: 2rem;
+    }
+
+    .features article {
+        margin: 1rem 0 7.5rem;
+    }
+
+    .companies {
+        margin-bottom: 7.5rem;
+    }
+
+    .companies>.center {
+        flex-direction: column;
+    }
+
+    .companies img {
+        margin: 5rem;
+    }
+
+    .footer {
+        flex-direction: column;
+        padding: 10rem 0rem;
+    }
+
+ 
+
+    .footer>.menu {
+        flex-direction: column;
+        margin: 1rem;
+    }
+
+    .socialmedia {
+       margin:2rem
+    }

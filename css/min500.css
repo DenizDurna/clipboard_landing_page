@@ -1,0 +1,106 @@
+    button {
+        width: 20rem;
+        margin: 3rem 1rem;
+    }
+
+    .info img,
+    .companies>div,
+    .companies img {
+        width: 100%;
+    }
+
+    .infocomponents,
+    .footer>.menu {
+        text-align: left;
+    }
+
+ 
+
+    .meeting {
+        padding: 7rem 0 2.5rem;
+    }
+
+    .cloudinfo {
+        margin: 10rem 0;
+    }
+
+    .info .pc {
+        width: 55%;
+    }
+
+    .info .pc img {
+        position: relative;
+        left: -12vw;
+    }
+
+    .infocomponents {
+        width: 30%;
+    }
+
+    .devices img {
+        height: auto;
+        width: 80%;
+    }
+
+    .features>.center {
+        align-items: flex-start;
+    }
+
+    .features article {
+        max-width: 32rem;
+        margin: 0 1rem 6rem;
+    }
+
+    .features figure {
+        height: 3rem;
+    }
+
+    .features img {
+        height: 100%;
+    }
+
+    .features h3 {
+        margin: 50px 0 25px;
+    }
+
+    .features p {
+        padding: 0 0 2rem;
+        font-size: 1.5rem;
+        line-height: 2;
+    }
+
+    .companies {
+        margin-bottom: 5rem;
+    }
+
+    .companies>.center
+    {
+       justify-content: space-evenly !important;
+       
+   }
+
+    .companies>div>div {
+        max-width: 15%;
+        min-width: 10%;
+        margin: 1vw;
+    }
+
+    .footer {
+        justify-content:start !important;
+        position: relative;
+        padding: 0 2rem;
+    
+    }
+    
+
+    .footer>.menu>div {
+        display: flex;
+        flex-direction: column;
+        margin: 0 1vw;
+    }
+
+    .socialmedia {
+        position: absolute;
+        right: 15px;
+    }
+
